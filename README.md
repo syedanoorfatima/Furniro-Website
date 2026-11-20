@@ -2,11 +2,9 @@
 
 A responsive furniture e-commerce website concept featuring a clean, modern shopping experience. Browse furniture collections, explore product categories, search for items, and interact with a shopping cart and wishlist.
 
-
 ## 🌐 Live Demo
 
 No public demo URL is currently listed for this repository. Add your deployment URL here when it is ready.
-
 
 ## ✨ Features
 
@@ -30,14 +28,21 @@ No public demo URL is currently listed for this repository. Add your deployment 
 - Google Fonts (DM Sans and Montserrat)
 - Font Awesome icons
 
+## 📸 Website Preview
+
+![Furniro furniture e-commerce homepage](screenshots/furniro-home.webp)
+
 ## 📁 Project Structure
 
-```
+```text
 Furniro-Website/
-└── Furniro/
-    ├── index.html
-    ├── style.css
-    └── script.js
+├── Furniro/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+├── screenshots/
+│   └── furniro-home.webp
+└── README.md
 ```
 
 ## 🚀 Run Locally
@@ -54,13 +59,7 @@ Furniro-Website/
    cd Furniro-Website/Furniro
    ```
 
-3. Open `index.html` in your browser.
-
-   You can also use the **Live Server** extension in Visual Studio Code for local preview.
-
-## 🌐 Project Repository
-
-[View Furniro-Website on GitHub](https://github.com/syedanoorfatima/Furniro-Website)
+3. Open `index.html` in your browser, or use the Live Server extension in Visual Studio Code.
 
 ## 👩‍💻 Developer
 
@@ -72,8 +71,3 @@ Furniro-Website/
 ---
 
 If you like this project, consider giving the repository a ⭐ on GitHub.
-
-
-## 📸 Screenshots
-
-Screenshots are not yet included in this repository README. Add genuine screenshots of the running project in a `screenshots/` folder and link them here so visitors can preview the actual interface.
